@@ -1,9 +1,6 @@
 # Road to Nowhere
 
-![logo](images/blog/templogo.png)
-
-
-Workshop 1
+Website to find relevant PTV delays, much wasier than current PTV websites.
 
 Team Members: 
 
